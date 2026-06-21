@@ -5,24 +5,24 @@
 ## Primary Pages
 
 - [Interval Timer Tabata and HIIT](https://easyfit.support/): Main product page for the EasyFit interval timer app.
-- [Tabata Timer](https://easyfit.support/tabata-timer.html): Guide page for classic 20/10 and custom Tabata interval workouts.
-- [HIIT Interval Timer](https://easyfit.support/hiit-interval-timer.html): Guide page for HIIT work/rest intervals, rounds, cues, and progress.
-- [Apple Watch HIIT Timer](https://easyfit.support/apple-watch-hiit-timer.html): Guide page for Apple Watch heart-rate workflows, haptics, and Apple Health.
-- [Interval Timer App](https://easyfit.support/interval-timer.html): Guide page for circuit training, EMOM, AMRAP, boxing, mobility, and home workouts.
+- [Tabata Timer](https://easyfit.support/tabata-timer/): Guide page for classic 20/10 and custom Tabata interval workouts.
+- [HIIT Interval Timer](https://easyfit.support/hiit-interval-timer/): Guide page for HIIT work/rest intervals, rounds, cues, and progress.
+- [Apple Watch HIIT Timer](https://easyfit.support/apple-watch-hiit-timer/): Guide page for Apple Watch heart-rate workflows, haptics, and Apple Health.
+- [Interval Timer App](https://easyfit.support/interval-timer/): Guide page for circuit training, EMOM, AMRAP, boxing, mobility, and home workouts.
 - [Support](https://easyfit.support/support.html): Contact page for app support.
 - [Privacy Notice](https://easyfit.support/privacy.html): Privacy information for the iOS app and website.
 - [Terms of Use](https://easyfit.support/terms.html): Terms for the iOS app.
 
 ## Localized Pages
 
-- [Deutsch](https://easyfit.support/de.html)
-- [Español](https://easyfit.support/es.html)
-- [Français](https://easyfit.support/fr.html)
-- [Italiano](https://easyfit.support/it.html)
-- [Português](https://easyfit.support/pt-br.html)
-- [日本語](https://easyfit.support/ja.html)
-- [한국어](https://easyfit.support/ko.html)
-- [简体中文](https://easyfit.support/zh-hans.html)
+- [Deutsch](https://easyfit.support/de/)
+- [Español](https://easyfit.support/es/)
+- [Français](https://easyfit.support/fr/)
+- [Italiano](https://easyfit.support/it/)
+- [Português](https://easyfit.support/pt-br/)
+- [日本語](https://easyfit.support/ja/)
+- [한국어](https://easyfit.support/ko/)
+- [简体中文](https://easyfit.support/zh-hans/)
 
 ## App Summary
 
