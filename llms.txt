@@ -5,10 +5,24 @@
 ## Primary Pages
 
 - [Interval Timer Tabata and HIIT](https://easyfit.support/): Main product page for the EasyFit interval timer app.
-- [Tabata Timer](https://easyfit.support/tabata-timer/): Guide page for classic 20/10 and custom Tabata interval workouts.
-- [HIIT Interval Timer](https://easyfit.support/hiit-interval-timer/): Guide page for HIIT work/rest intervals, rounds, cues, and progress.
-- [Apple Watch HIIT Timer](https://easyfit.support/apple-watch-hiit-timer/): Guide page for Apple Watch heart-rate workflows, haptics, and Apple Health.
-- [Interval Timer App](https://easyfit.support/interval-timer/): Guide page for circuit training, EMOM, AMRAP, boxing, mobility, and home workouts.
+- [Tabata Timer App for 20/10 and Custom Intervals](https://easyfit.support/tabata-timer/): Use EasyFit as a Tabata timer for classic 20/10 rounds, custom work and rest periods, exercise lists, Apple Watch heart rate, haptics, and music cues.
+- [HIIT Interval Timer App for iPhone and Apple Watch](https://easyfit.support/hiit-interval-timer/): Build HIIT interval workouts with custom work, rest, rounds, voice cues, haptics, Apple Watch heart rate, Apple Health, widgets, and progress tracking.
+- [Apple Watch HIIT Timer with Heart Rate and Haptics](https://easyfit.support/apple-watch-hiit-timer/): EasyFit is an Apple Watch HIIT timer for interval workouts with heart-rate workflows, haptic cues, Apple Health, voice prompts, and iPhone controls.
+- [Interval Timer App for Workouts, Circuits, EMOM and AMRAP](https://easyfit.support/interval-timer/): EasyFit is a flexible interval timer app for Tabata, HIIT, circuit training, EMOM, AMRAP, boxing, mobility, and home workouts.
+- [EMOM Timer App for Every Minute on the Minute Workouts](https://easyfit.support/emom-timer/): Run Every Minute on the Minute workouts with fixed minutes, exercise changes, rounds, haptic cues, voice prompts, Apple Watch, and Apple Health support.
+- [AMRAP Timer App for As Many Rounds As Possible](https://easyfit.support/amrap-timer/): Set a time cap, complete as many rounds as possible, and keep pace with clear interval cues, haptics, progress tracking, Apple Watch, and Apple Health workflows.
+- [Circuit Training Timer App for Stations and Rounds](https://easyfit.support/circuit-training-timer/): Build circuit workouts with stations, rest periods, rounds, exercise lists, voice prompts, haptic cues, Apple Watch context, and progress tracking.
+- [Boxing Round Timer App for Rounds and Rest](https://easyfit.support/boxing-round-timer/): Time boxing, martial arts, and round-based conditioning with work intervals, rest periods, cues, haptics, music controls, and Apple Watch support.
+- [Workout Interval Timer for Training Sessions](https://easyfit.support/workout-interval-timer/): Create repeatable workout timers for strength circuits, cardio intervals, mobility blocks, home workouts, and gym sessions with clear cues and progress.
+- [Custom Interval Timer App for Work and Rest Periods](https://easyfit.support/custom-interval-timer/): Customize work, rest, rounds, preparation, cooldown, exercise lists, signals, haptics, music controls, widgets, and Apple Watch workflows.
+- [Apple Health Workout Timer for Interval Training](https://easyfit.support/apple-health-workout-timer/): Use interval training workflows that can connect with Apple Health and Apple Watch when permissions are enabled, while keeping workouts structured and easy to follow.
+- [iPhone Interval Timer App for HIIT, Tabata and Circuits](https://easyfit.support/iphone-interval-timer/): Run HIIT, Tabata, circuits, boxing rounds, mobility sessions, and home workouts from iPhone with voice cues, haptics, widgets, and music controls.
+- [Home Workout Timer App for HIIT, Tabata and Circuits](https://easyfit.support/home-workout-timer/): Create timed home workouts with bodyweight circuits, Tabata rounds, HIIT blocks, mobility, stretching, warm-up, cooldown, and exercise lists.
+- [Gym Timer App for Strength, Circuits and Conditioning](https://easyfit.support/gym-timer/): Use EasyFit in the gym for strength supersets, conditioning circuits, rest periods, timed rounds, Apple Watch context, and progress tracking.
+- [Round Timer App for Training Rounds and Rest](https://easyfit.support/round-timer/): Time repeated rounds for boxing, circuits, HIIT, conditioning, mobility, and skill work with clear work/rest cues and adjustable rounds.
+- [Mobility Timer App for Stretching and Recovery](https://easyfit.support/mobility-timer/): Create timed mobility flows, stretching blocks, recovery sessions, warm-ups, cooldowns, and exercise lists with gentle cues and progress tracking.
+- [Strength Training Timer for Sets, Rest and Circuits](https://easyfit.support/strength-training-timer/): Manage timed strength sessions with rest periods, supersets, circuits, EMOM blocks, cues, Apple Watch context, and workout history.
+- [Fitness Timer App for HIIT, Tabata, EMOM and AMRAP](https://easyfit.support/fitness-timer/): Use one fitness timer for HIIT, Tabata, EMOM, AMRAP, circuits, boxing, mobility, home workouts, Apple Watch, and Apple Health workflows.
 - [Support](https://easyfit.support/support.html): Contact page for app support.
 - [Privacy Notice](https://easyfit.support/privacy.html): Privacy information for the iOS app and website.
 - [Terms of Use](https://easyfit.support/terms.html): Terms for the iOS app.
@@ -16,13 +30,77 @@
 ## Localized Pages
 
 - [Deutsch](https://easyfit.support/de/)
+- [Deutsch - Tabata Timer App fuer iPhone und Apple Watch](https://easyfit.support/de/tabata-timer/)
+- [Deutsch - HIIT Intervalltimer App fuer iPhone und Apple Watch](https://easyfit.support/de/hiit-interval-timer/)
+- [Deutsch - Intervalltimer App fuer Training, Zirkel, EMOM und AMRAP](https://easyfit.support/de/interval-timer/)
+- [Deutsch - Apple Watch HIIT Timer mit Herzfrequenz](https://easyfit.support/de/apple-watch-hiit-timer/)
+- [Deutsch - EMOM Timer App fuer Every Minute on the Minute](https://easyfit.support/de/emom-timer/)
+- [Deutsch - AMRAP Timer App fuer so viele Runden wie moeglich](https://easyfit.support/de/amrap-timer/)
+- [Deutsch - Zirkeltraining Timer App fuer Workouts](https://easyfit.support/de/circuit-training-timer/)
+- [Deutsch - Boxing Round Timer App fuer Runden und Pausen](https://easyfit.support/de/boxing-round-timer/)
 - [Español](https://easyfit.support/es/)
+- [Español - Temporizador Tabata para iPhone y Apple Watch](https://easyfit.support/es/tabata-timer/)
+- [Español - Temporizador de intervalos HIIT para iPhone](https://easyfit.support/es/hiit-interval-timer/)
+- [Español - App de temporizador de intervalos para entrenar](https://easyfit.support/es/interval-timer/)
+- [Español - Temporizador HIIT para Apple Watch con frecuencia cardíaca](https://easyfit.support/es/apple-watch-hiit-timer/)
+- [Español - Temporizador EMOM para Every Minute on the Minute](https://easyfit.support/es/emom-timer/)
+- [Español - Temporizador AMRAP para tantas rondas como puedas](https://easyfit.support/es/amrap-timer/)
+- [Español - Temporizador de circuito para estaciones y rondas](https://easyfit.support/es/circuit-training-timer/)
+- [Español - Temporizador de rounds de boxeo para iPhone](https://easyfit.support/es/boxing-round-timer/)
 - [Français](https://easyfit.support/fr/)
+- [Français - Minuteur Tabata pour iPhone et Apple Watch](https://easyfit.support/fr/tabata-timer/)
+- [Français - Minuteur HIIT par intervalles pour iPhone](https://easyfit.support/fr/hiit-interval-timer/)
+- [Français - Application de minuteur d’intervalles pour l’entraînement](https://easyfit.support/fr/interval-timer/)
+- [Français - Minuteur HIIT Apple Watch avec fréquence cardiaque](https://easyfit.support/fr/apple-watch-hiit-timer/)
+- [Français - Minuteur EMOM Every Minute on the Minute](https://easyfit.support/fr/emom-timer/)
+- [Français - Minuteur AMRAP pour autant de tours que possible](https://easyfit.support/fr/amrap-timer/)
+- [Français - Minuteur de circuit training pour stations et tours](https://easyfit.support/fr/circuit-training-timer/)
+- [Français - Minuteur de rounds de boxe pour iPhone](https://easyfit.support/fr/boxing-round-timer/)
 - [Italiano](https://easyfit.support/it/)
+- [Italiano - Timer Tabata per iPhone e Apple Watch](https://easyfit.support/it/tabata-timer/)
+- [Italiano - Timer HIIT a intervalli per iPhone](https://easyfit.support/it/hiit-interval-timer/)
+- [Italiano - App timer a intervalli per allenamenti](https://easyfit.support/it/interval-timer/)
+- [Italiano - Timer HIIT Apple Watch con frequenza cardiaca](https://easyfit.support/it/apple-watch-hiit-timer/)
+- [Italiano - Timer EMOM Every Minute on the Minute](https://easyfit.support/it/emom-timer/)
+- [Italiano - Timer AMRAP per piu round possibili](https://easyfit.support/it/amrap-timer/)
+- [Italiano - Timer circuit training per stazioni e round](https://easyfit.support/it/circuit-training-timer/)
+- [Italiano - Timer round boxe per iPhone](https://easyfit.support/it/boxing-round-timer/)
 - [Português](https://easyfit.support/pt-br/)
+- [Português - Timer Tabata para iPhone e Apple Watch](https://easyfit.support/pt-br/tabata-timer/)
+- [Português - Timer HIIT intervalado para iPhone](https://easyfit.support/pt-br/hiit-interval-timer/)
+- [Português - App timer intervalado para treinos](https://easyfit.support/pt-br/interval-timer/)
+- [Português - Timer HIIT Apple Watch com frequência cardíaca](https://easyfit.support/pt-br/apple-watch-hiit-timer/)
+- [Português - Timer EMOM Every Minute on the Minute](https://easyfit.support/pt-br/emom-timer/)
+- [Português - Timer AMRAP para o máximo de rounds](https://easyfit.support/pt-br/amrap-timer/)
+- [Português - Timer de circuito para estações e rounds](https://easyfit.support/pt-br/circuit-training-timer/)
+- [Português - Timer de rounds de boxe para iPhone](https://easyfit.support/pt-br/boxing-round-timer/)
 - [日本語](https://easyfit.support/ja/)
+- [日本語 - Tabataタイマー iPhone・Apple Watch向け](https://easyfit.support/ja/tabata-timer/)
+- [日本語 - HIITインターバルタイマー iPhone向け](https://easyfit.support/ja/hiit-interval-timer/)
+- [日本語 - トレーニング用インターバルタイマーアプリ](https://easyfit.support/ja/interval-timer/)
+- [日本語 - Apple Watch HIITタイマー 心拍数対応](https://easyfit.support/ja/apple-watch-hiit-timer/)
+- [日本語 - EMOMタイマー Every Minute on the Minute](https://easyfit.support/ja/emom-timer/)
+- [日本語 - AMRAPタイマー できるだけ多くのラウンド向け](https://easyfit.support/ja/amrap-timer/)
+- [日本語 - サーキットトレーニングタイマー](https://easyfit.support/ja/circuit-training-timer/)
+- [日本語 - ボクシングラウンドタイマー iPhone向け](https://easyfit.support/ja/boxing-round-timer/)
 - [한국어](https://easyfit.support/ko/)
+- [한국어 - Tabata 타이머 iPhone 및 Apple Watch용](https://easyfit.support/ko/tabata-timer/)
+- [한국어 - HIIT 인터벌 타이머 iPhone용](https://easyfit.support/ko/hiit-interval-timer/)
+- [한국어 - 운동용 인터벌 타이머 앱](https://easyfit.support/ko/interval-timer/)
+- [한국어 - Apple Watch HIIT 타이머 심박수 지원](https://easyfit.support/ko/apple-watch-hiit-timer/)
+- [한국어 - EMOM 타이머 Every Minute on the Minute](https://easyfit.support/ko/emom-timer/)
+- [한국어 - AMRAP 타이머 가능한 많은 라운드용](https://easyfit.support/ko/amrap-timer/)
+- [한국어 - 서킷 트레이닝 타이머](https://easyfit.support/ko/circuit-training-timer/)
+- [한국어 - 복싱 라운드 타이머 iPhone용](https://easyfit.support/ko/boxing-round-timer/)
 - [简体中文](https://easyfit.support/zh-hans/)
+- [简体中文 - Tabata 计时器，适用于 iPhone 和 Apple Watch](https://easyfit.support/zh-hans/tabata-timer/)
+- [简体中文 - HIIT 间歇计时器，适用于 iPhone](https://easyfit.support/zh-hans/hiit-interval-timer/)
+- [简体中文 - 训练间歇计时器 App](https://easyfit.support/zh-hans/interval-timer/)
+- [简体中文 - Apple Watch HIIT 计时器，支持心率](https://easyfit.support/zh-hans/apple-watch-hiit-timer/)
+- [简体中文 - EMOM 计时器 Every Minute on the Minute](https://easyfit.support/zh-hans/emom-timer/)
+- [简体中文 - AMRAP 计时器，尽可能多轮训练](https://easyfit.support/zh-hans/amrap-timer/)
+- [简体中文 - 循环训练计时器，适合站点和轮数](https://easyfit.support/zh-hans/circuit-training-timer/)
+- [简体中文 - 拳击回合计时器，适用于 iPhone](https://easyfit.support/zh-hans/boxing-round-timer/)
 
 ## App Summary
 
@@ -32,23 +110,15 @@ Interval Timer Tabata and HIIT helps users create timed workout sessions with cu
 
 - Tabata timer
 - HIIT interval timer
-- interval timer app
-- Apple Watch workout timer
-- Apple Health fitness app
-- circuit training timer
 - EMOM timer
 - AMRAP timer
+- circuit training timer
 - boxing round timer
+- custom interval timer
+- Apple Watch workout timer
+- Apple Health fitness app
 - home workout timer
-- haptic workout cues
-- voice-guided interval training
-- 20/10 Tabata workout timer
-- custom work/rest interval timer
-- Apple Watch HIIT timer with heart rate
-- workout timer for iPhone
-- gym circuit timer
-- fitness timer with haptic cues
-
-## App Store
-
-- [Download on the App Store](https://apps.apple.com/app/id6764888681)
+- strength training timer
+- mobility timer
+- round timer app
+- iPhone interval timer
