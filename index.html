@@ -7,15 +7,33 @@
     <meta name="description" content="EasyFit Interval Timer Tabata and HIIT helps you build timed HIIT, Tabata, circuit, EMOM, AMRAP, boxing, and home workout sessions with Apple Watch, Health, haptics, music controls, and progress tracking.">
     <meta name="robots" content="index, follow, max-image-preview:large">
     <link rel="canonical" href="https://easyfit.support/">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="manifest" href="/site.webmanifest">
     <meta name="theme-color" content="#ff454f">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="EasyFit">
     <meta property="og:title" content="Interval Timer Tabata and HIIT App">
     <meta property="og:description" content="Create focused interval workouts with guided rounds, Apple Watch heart rate, Apple Health, haptics, music controls, widgets, and progress tools.">
     <meta property="og:url" content="https://easyfit.support/">
-    <meta name="twitter:card" content="summary">
+    <meta property="og:image" content="https://easyfit.support/assets/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="Interval Timer Tabata and HIIT by EasyFit">
+    <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Interval Timer Tabata and HIIT App">
     <meta name="twitter:description" content="A focused HIIT and Tabata interval timer for iPhone and Apple Watch.">
+    <meta name="twitter:image" content="https://easyfit.support/assets/og-image.png">
+    <link rel="alternate" hreflang="x-default" href="https://easyfit.support/">
+    <link rel="alternate" hreflang="en" href="https://easyfit.support/">
+    <link rel="alternate" hreflang="de" href="https://easyfit.support/de.html">
+    <link rel="alternate" hreflang="es" href="https://easyfit.support/es.html">
+    <link rel="alternate" hreflang="fr" href="https://easyfit.support/fr.html">
+    <link rel="alternate" hreflang="it" href="https://easyfit.support/it.html">
+    <link rel="alternate" hreflang="pt-BR" href="https://easyfit.support/pt-br.html">
+    <link rel="alternate" hreflang="ja" href="https://easyfit.support/ja.html">
+    <link rel="alternate" hreflang="ko" href="https://easyfit.support/ko.html">
+    <link rel="alternate" hreflang="zh-Hans" href="https://easyfit.support/zh-hans.html">
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
@@ -25,7 +43,13 @@
                 "@id": "https://easyfit.support/#organization",
                 "name": "EasyFit",
                 "url": "https://easyfit.support/",
-                "email": "support@easyfit.support"
+                "email": "support@easyfit.support",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://easyfit.support/assets/app-icon-1024.png",
+                    "width": 1024,
+                    "height": 1024
+                }
             },
             {
                 "@type": "WebSite",
@@ -44,6 +68,8 @@
                 "operatingSystem": "iOS, watchOS",
                 "url": "https://easyfit.support/",
                 "downloadUrl": "https://apps.apple.com/app/id6764888681",
+                "image": "https://easyfit.support/assets/app-icon-1024.png",
+                "screenshot": "https://easyfit.support/assets/og-image.png",
                 "publisher": {
                     "@id": "https://easyfit.support/#organization"
                 },
@@ -131,11 +157,14 @@
             width: 34px;
             height: 34px;
             border-radius: 10px;
-            background: linear-gradient(135deg, var(--red), var(--orange));
-            display: grid;
-            place-items: center;
-            color: #fff;
+            display: block;
             box-shadow: 0 10px 24px rgba(255, 69, 79, 0.28);
+        }
+        .mark img {
+            display: block;
+            width: 34px;
+            height: 34px;
+            border-radius: 10px;
         }
         .nav-links {
             display: flex;
@@ -188,10 +217,10 @@
             align-items: center;
             gap: 12px;
             border-radius: 18px;
-            background: #111;
+            background: linear-gradient(135deg, var(--orange), var(--red));
             color: #fff;
             padding: 13px 18px;
-            box-shadow: 0 18px 38px rgba(20, 20, 20, 0.16);
+            box-shadow: 0 18px 38px rgba(255, 69, 79, 0.24);
             font-weight: 800;
         }
         .app-store small {
@@ -438,6 +467,57 @@
             color: var(--muted);
             font-size: 0.98rem;
         }
+        .internal-links {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            max-width: 980px;
+        }
+        .internal-links a {
+            border: 1px solid var(--line);
+            border-radius: 999px;
+            background: rgba(255,255,255,0.7);
+            color: var(--ink);
+            font-weight: 800;
+            padding: 10px 14px;
+        }
+        .language-links {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            max-width: 980px;
+        }
+        .language-links a {
+            border-radius: 999px;
+            background: rgba(255,255,255,0.58);
+            border: 1px solid var(--line);
+            color: var(--muted);
+            font-size: 0.92rem;
+            font-weight: 750;
+            padding: 8px 12px;
+        }
+        .sticky-download {
+            position: fixed;
+            left: 14px;
+            right: 14px;
+            bottom: calc(12px + env(safe-area-inset-bottom));
+            z-index: 30;
+            display: none;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            border-radius: 16px;
+            background: linear-gradient(135deg, var(--orange), var(--red));
+            color: #fff;
+            padding: 14px 18px;
+            font-weight: 900;
+            box-shadow: 0 18px 40px rgba(255, 69, 79, 0.34);
+        }
+        .sticky-download img {
+            width: 28px;
+            height: 28px;
+            border-radius: 8px;
+        }
         .one { background: linear-gradient(135deg, var(--red), var(--orange)); }
         .two { background: linear-gradient(135deg, var(--blue), var(--violet)); }
         .three { background: linear-gradient(135deg, var(--green), #10b9c7); }
@@ -476,6 +556,7 @@
             .seo-copy { grid-template-columns: 1fr; }
         }
         @media (max-width: 620px) {
+            body { padding-bottom: 86px; }
             .nav { align-items: flex-start; }
             .nav-links { gap: 14px; font-size: 0.85rem; }
             .stats { grid-template-columns: 1fr; }
@@ -483,6 +564,7 @@
             .hero { padding-bottom: 48px; }
             .section { padding-bottom: 62px; }
             .floating-card { display: none; }
+            .sticky-download { display: flex; }
         }
     </style>
 </head>
@@ -490,7 +572,7 @@
     <div class="page">
         <header class="nav">
             <a class="brand" href="/">
-                <span class="mark">HI</span>
+                <span class="mark"><img src="/assets/apple-touch-icon.png" width="34" height="34" alt="EasyFit Interval Timer app icon"></span>
                 <span>EasyFit</span>
             </a>
             <nav class="nav-links">
@@ -616,6 +698,30 @@
                     </article>
                 </div>
             </section>
+
+            <section class="section">
+                <h2>Explore interval timer guides.</h2>
+                <nav class="internal-links" aria-label="Interval timer guide pages">
+                    <a href="/tabata-timer.html">Tabata timer</a>
+                    <a href="/hiit-interval-timer.html">HIIT interval timer</a>
+                    <a href="/apple-watch-hiit-timer.html">Apple Watch HIIT timer</a>
+                    <a href="/interval-timer.html">Interval timer app</a>
+                </nav>
+            </section>
+
+            <section class="section">
+                <h2>Available in more languages.</h2>
+                <nav class="language-links" aria-label="Localized EasyFit pages">
+                    <a href="/de.html" hreflang="de">Deutsch</a>
+                    <a href="/es.html" hreflang="es">Español</a>
+                    <a href="/fr.html" hreflang="fr">Français</a>
+                    <a href="/it.html" hreflang="it">Italiano</a>
+                    <a href="/pt-br.html" hreflang="pt-BR">Português</a>
+                    <a href="/ja.html" hreflang="ja">日本語</a>
+                    <a href="/ko.html" hreflang="ko">한국어</a>
+                    <a href="/zh-hans.html" hreflang="zh-Hans">简体中文</a>
+                </nav>
+            </section>
         </main>
 
         <footer>
@@ -626,6 +732,11 @@
                 <a href="/terms.html">Terms of Use</a>
             </nav>
         </footer>
+
+        <a class="sticky-download" href="https://apps.apple.com/app/id6764888681" aria-label="Download Interval Timer Tabata and HIIT on the App Store">
+            <img src="/assets/apple-touch-icon.png" width="28" height="28" alt="">
+            <span>Download on the App Store</span>
+        </a>
     </div>
 </body>
 </html>

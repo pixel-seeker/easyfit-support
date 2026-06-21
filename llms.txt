@@ -1,0 +1,54 @@
+# EasyFit
+
+> EasyFit publishes Interval Timer Tabata and HIIT, an iPhone and Apple Watch app for timed Tabata, HIIT, circuit, EMOM, AMRAP, boxing, mobility, and home workout sessions.
+
+## Primary Pages
+
+- [Interval Timer Tabata and HIIT](https://easyfit.support/): Main product page for the EasyFit interval timer app.
+- [Tabata Timer](https://easyfit.support/tabata-timer.html): Guide page for classic 20/10 and custom Tabata interval workouts.
+- [HIIT Interval Timer](https://easyfit.support/hiit-interval-timer.html): Guide page for HIIT work/rest intervals, rounds, cues, and progress.
+- [Apple Watch HIIT Timer](https://easyfit.support/apple-watch-hiit-timer.html): Guide page for Apple Watch heart-rate workflows, haptics, and Apple Health.
+- [Interval Timer App](https://easyfit.support/interval-timer.html): Guide page for circuit training, EMOM, AMRAP, boxing, mobility, and home workouts.
+- [Support](https://easyfit.support/support.html): Contact page for app support.
+- [Privacy Notice](https://easyfit.support/privacy.html): Privacy information for the iOS app and website.
+- [Terms of Use](https://easyfit.support/terms.html): Terms for the iOS app.
+
+## Localized Pages
+
+- [Deutsch](https://easyfit.support/de.html)
+- [Español](https://easyfit.support/es.html)
+- [Français](https://easyfit.support/fr.html)
+- [Italiano](https://easyfit.support/it.html)
+- [Português](https://easyfit.support/pt-br.html)
+- [日本語](https://easyfit.support/ja.html)
+- [한국어](https://easyfit.support/ko.html)
+- [简体中文](https://easyfit.support/zh-hans.html)
+
+## App Summary
+
+Interval Timer Tabata and HIIT helps users create timed workout sessions with custom work periods, rest periods, rounds, preparation, cooldown, and exercise lists. It supports Apple Watch heart-rate workflows, Apple Health integration, haptic cues, voice prompts, music controls, widgets, progress tracking, and personal fitness routines.
+
+## Keywords and Topics
+
+- Tabata timer
+- HIIT interval timer
+- interval timer app
+- Apple Watch workout timer
+- Apple Health fitness app
+- circuit training timer
+- EMOM timer
+- AMRAP timer
+- boxing round timer
+- home workout timer
+- haptic workout cues
+- voice-guided interval training
+- 20/10 Tabata workout timer
+- custom work/rest interval timer
+- Apple Watch HIIT timer with heart rate
+- workout timer for iPhone
+- gym circuit timer
+- fitness timer with haptic cues
+
+## App Store
+
+- [Download on the App Store](https://apps.apple.com/app/id6764888681)

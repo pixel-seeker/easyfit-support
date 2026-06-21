@@ -3,3 +3,5 @@ Allow: /
 Disallow: /404.html
 
 Sitemap: https://easyfit.support/sitemap.xml
+
+LLMs: https://easyfit.support/llms.txt

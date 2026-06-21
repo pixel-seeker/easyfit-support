@@ -1,9 +1,264 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <url>
         <loc>https://easyfit.support/</loc>
         <lastmod>2026-06-21</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://easyfit.support/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://easyfit.support/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://easyfit.support/de.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://easyfit.support/es.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://easyfit.support/fr.html"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://easyfit.support/it.html"/>
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://easyfit.support/pt-br.html"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://easyfit.support/ja.html"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://easyfit.support/ko.html"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://easyfit.support/zh-hans.html"/>
+        <image:image>
+            <image:loc>https://easyfit.support/assets/og-image.png</image:loc>
+            <image:title>Interval Timer Tabata and HIIT by EasyFit</image:title>
+            <image:caption>EasyFit interval timer app for iPhone and Apple Watch</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://easyfit.support/assets/app-icon-1024.png</image:loc>
+            <image:title>EasyFit Interval Timer app icon</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://easyfit.support/de.html</loc>
+        <lastmod>2026-06-21</lastmod>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://easyfit.support/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://easyfit.support/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://easyfit.support/de.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://easyfit.support/es.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://easyfit.support/fr.html"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://easyfit.support/it.html"/>
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://easyfit.support/pt-br.html"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://easyfit.support/ja.html"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://easyfit.support/ko.html"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://easyfit.support/zh-hans.html"/>
+        <image:image>
+            <image:loc>https://easyfit.support/assets/og-image.png</image:loc>
+            <image:title>Interval Timer Tabata and HIIT by EasyFit</image:title>
+            <image:caption>EasyFit interval timer app for iPhone and Apple Watch</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://easyfit.support/assets/app-icon-1024.png</image:loc>
+            <image:title>EasyFit Interval Timer app icon</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://easyfit.support/es.html</loc>
+        <lastmod>2026-06-21</lastmod>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://easyfit.support/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://easyfit.support/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://easyfit.support/de.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://easyfit.support/es.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://easyfit.support/fr.html"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://easyfit.support/it.html"/>
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://easyfit.support/pt-br.html"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://easyfit.support/ja.html"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://easyfit.support/ko.html"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://easyfit.support/zh-hans.html"/>
+        <image:image>
+            <image:loc>https://easyfit.support/assets/og-image.png</image:loc>
+            <image:title>Interval Timer Tabata and HIIT by EasyFit</image:title>
+            <image:caption>EasyFit interval timer app for iPhone and Apple Watch</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://easyfit.support/assets/app-icon-1024.png</image:loc>
+            <image:title>EasyFit Interval Timer app icon</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://easyfit.support/fr.html</loc>
+        <lastmod>2026-06-21</lastmod>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://easyfit.support/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://easyfit.support/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://easyfit.support/de.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://easyfit.support/es.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://easyfit.support/fr.html"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://easyfit.support/it.html"/>
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://easyfit.support/pt-br.html"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://easyfit.support/ja.html"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://easyfit.support/ko.html"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://easyfit.support/zh-hans.html"/>
+        <image:image>
+            <image:loc>https://easyfit.support/assets/og-image.png</image:loc>
+            <image:title>Interval Timer Tabata and HIIT by EasyFit</image:title>
+            <image:caption>EasyFit interval timer app for iPhone and Apple Watch</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://easyfit.support/assets/app-icon-1024.png</image:loc>
+            <image:title>EasyFit Interval Timer app icon</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://easyfit.support/it.html</loc>
+        <lastmod>2026-06-21</lastmod>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://easyfit.support/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://easyfit.support/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://easyfit.support/de.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://easyfit.support/es.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://easyfit.support/fr.html"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://easyfit.support/it.html"/>
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://easyfit.support/pt-br.html"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://easyfit.support/ja.html"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://easyfit.support/ko.html"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://easyfit.support/zh-hans.html"/>
+        <image:image>
+            <image:loc>https://easyfit.support/assets/og-image.png</image:loc>
+            <image:title>Interval Timer Tabata and HIIT by EasyFit</image:title>
+            <image:caption>EasyFit interval timer app for iPhone and Apple Watch</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://easyfit.support/assets/app-icon-1024.png</image:loc>
+            <image:title>EasyFit Interval Timer app icon</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://easyfit.support/pt-br.html</loc>
+        <lastmod>2026-06-21</lastmod>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://easyfit.support/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://easyfit.support/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://easyfit.support/de.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://easyfit.support/es.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://easyfit.support/fr.html"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://easyfit.support/it.html"/>
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://easyfit.support/pt-br.html"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://easyfit.support/ja.html"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://easyfit.support/ko.html"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://easyfit.support/zh-hans.html"/>
+        <image:image>
+            <image:loc>https://easyfit.support/assets/og-image.png</image:loc>
+            <image:title>Interval Timer Tabata and HIIT by EasyFit</image:title>
+            <image:caption>EasyFit interval timer app for iPhone and Apple Watch</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://easyfit.support/assets/app-icon-1024.png</image:loc>
+            <image:title>EasyFit Interval Timer app icon</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://easyfit.support/ja.html</loc>
+        <lastmod>2026-06-21</lastmod>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://easyfit.support/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://easyfit.support/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://easyfit.support/de.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://easyfit.support/es.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://easyfit.support/fr.html"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://easyfit.support/it.html"/>
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://easyfit.support/pt-br.html"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://easyfit.support/ja.html"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://easyfit.support/ko.html"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://easyfit.support/zh-hans.html"/>
+        <image:image>
+            <image:loc>https://easyfit.support/assets/og-image.png</image:loc>
+            <image:title>Interval Timer Tabata and HIIT by EasyFit</image:title>
+            <image:caption>EasyFit interval timer app for iPhone and Apple Watch</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://easyfit.support/assets/app-icon-1024.png</image:loc>
+            <image:title>EasyFit Interval Timer app icon</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://easyfit.support/ko.html</loc>
+        <lastmod>2026-06-21</lastmod>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://easyfit.support/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://easyfit.support/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://easyfit.support/de.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://easyfit.support/es.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://easyfit.support/fr.html"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://easyfit.support/it.html"/>
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://easyfit.support/pt-br.html"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://easyfit.support/ja.html"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://easyfit.support/ko.html"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://easyfit.support/zh-hans.html"/>
+        <image:image>
+            <image:loc>https://easyfit.support/assets/og-image.png</image:loc>
+            <image:title>Interval Timer Tabata and HIIT by EasyFit</image:title>
+            <image:caption>EasyFit interval timer app for iPhone and Apple Watch</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://easyfit.support/assets/app-icon-1024.png</image:loc>
+            <image:title>EasyFit Interval Timer app icon</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://easyfit.support/zh-hans.html</loc>
+        <lastmod>2026-06-21</lastmod>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://easyfit.support/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://easyfit.support/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://easyfit.support/de.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://easyfit.support/es.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://easyfit.support/fr.html"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://easyfit.support/it.html"/>
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://easyfit.support/pt-br.html"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://easyfit.support/ja.html"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://easyfit.support/ko.html"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://easyfit.support/zh-hans.html"/>
+        <image:image>
+            <image:loc>https://easyfit.support/assets/og-image.png</image:loc>
+            <image:title>Interval Timer Tabata and HIIT by EasyFit</image:title>
+            <image:caption>EasyFit interval timer app for iPhone and Apple Watch</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://easyfit.support/assets/app-icon-1024.png</image:loc>
+            <image:title>EasyFit Interval Timer app icon</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://easyfit.support/tabata-timer.html</loc>
+        <lastmod>2026-06-21</lastmod>
+        <image:image>
+            <image:loc>https://easyfit.support/assets/og-image.png</image:loc>
+            <image:title>Interval Timer Tabata and HIIT by EasyFit</image:title>
+            <image:caption>EasyFit interval timer app for iPhone and Apple Watch</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://easyfit.support/assets/app-icon-1024.png</image:loc>
+            <image:title>EasyFit Interval Timer app icon</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://easyfit.support/hiit-interval-timer.html</loc>
+        <lastmod>2026-06-21</lastmod>
+        <image:image>
+            <image:loc>https://easyfit.support/assets/og-image.png</image:loc>
+            <image:title>Interval Timer Tabata and HIIT by EasyFit</image:title>
+            <image:caption>EasyFit interval timer app for iPhone and Apple Watch</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://easyfit.support/assets/app-icon-1024.png</image:loc>
+            <image:title>EasyFit Interval Timer app icon</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://easyfit.support/apple-watch-hiit-timer.html</loc>
+        <lastmod>2026-06-21</lastmod>
+        <image:image>
+            <image:loc>https://easyfit.support/assets/og-image.png</image:loc>
+            <image:title>Interval Timer Tabata and HIIT by EasyFit</image:title>
+            <image:caption>EasyFit interval timer app for iPhone and Apple Watch</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://easyfit.support/assets/app-icon-1024.png</image:loc>
+            <image:title>EasyFit Interval Timer app icon</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://easyfit.support/interval-timer.html</loc>
+        <lastmod>2026-06-21</lastmod>
+        <image:image>
+            <image:loc>https://easyfit.support/assets/og-image.png</image:loc>
+            <image:title>Interval Timer Tabata and HIIT by EasyFit</image:title>
+            <image:caption>EasyFit interval timer app for iPhone and Apple Watch</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://easyfit.support/assets/app-icon-1024.png</image:loc>
+            <image:title>EasyFit Interval Timer app icon</image:title>
+        </image:image>
     </url>
 </urlset>
