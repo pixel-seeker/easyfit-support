@@ -122,3 +122,59 @@ Interval Timer Tabata and HIIT helps users create timed workout sessions with cu
 - mobility timer
 - round timer app
 - iPhone interval timer
+
+## Training Guides
+
+- [Tabata vs HIIT: How to Set the Right Interval Timer](https://easyfit.support/guides/tabata-vs-hiit/): Compare Tabata and HIIT timing, work periods, rest periods, rounds, cues, and Apple Watch workflows so your interval timer matches the workout.
+- [EMOM vs AMRAP: Timer Settings for Each Workout Style](https://easyfit.support/guides/emom-vs-amrap/): Learn how EMOM and AMRAP workouts use different timer setups, cues, rounds, and progress tracking for interval training.
+- [How to Set Up a Circuit Training Timer](https://easyfit.support/guides/circuit-training-timer-setup/): Build a circuit training timer with stations, rounds, rest periods, warm-up, cooldown, exercise lists, haptics, and Apple Watch support.
+- [Boxing Round Timer Settings for Training Sessions](https://easyfit.support/guides/boxing-round-timer-settings/): Set up boxing rounds, rest periods, alerts, warm-up, cooldown, and haptic cues for boxing, martial arts, and conditioning workouts.
+- [Workout Interval Timer Settings: Work, Rest, Rounds and Cues](https://easyfit.support/guides/workout-interval-timer-settings/): A practical guide to choosing work periods, rest periods, rounds, preparation, cooldown, and cues for interval workouts.
+- [Warm-Up and Cooldown Timer Ideas for Interval Workouts](https://easyfit.support/guides/warm-up-and-cooldown-timer/): Use preparation, warm-up, cooldown, and transition timers to make HIIT, Tabata, circuit, and mobility sessions easier to follow.
+- [Home Workout Interval Ideas with a Timer](https://easyfit.support/guides/home-workout-intervals/): Use an interval timer for home workouts, bodyweight circuits, Tabata rounds, mobility sessions, and repeatable training blocks.
+- [Apple Watch Interval Training with Timers and Haptics](https://easyfit.support/guides/apple-watch-interval-training/): Use Apple Watch, haptics, heart-rate context, and iPhone controls to make interval training easier to follow.
+- [Beginner Fitness Routine: How to Start with Timed Workouts](https://easyfit.support/guides/beginner-fitness-routine/): Build a simple beginner fitness routine with short timed sessions, repeatable workout blocks, rest days, mobility, and progress tracking.
+- [Weekly Workout Plan: Balance HIIT, Strength, Mobility and Rest](https://easyfit.support/guides/weekly-workout-plan/): Plan a balanced training week with interval workouts, strength circuits, mobility sessions, active recovery, and rest days.
+- [Active Recovery Days: Timed Mobility, Stretching and Easy Movement](https://easyfit.support/guides/active-recovery-days/): Use active recovery days for lighter timed movement, mobility, stretching, cooldowns, and habit-building between harder workouts.
+- [Mobility Routine Timer: Structure Stretching and Movement Breaks](https://easyfit.support/guides/mobility-routine-timer/): Create a mobility routine timer for stretching, movement breaks, warm-ups, cooldowns, recovery sessions, and home workouts.
+- [Tabata vs HIIT: den richtigen Intervalltimer einstellen](https://easyfit.support/de/guides/tabata-vs-hiit/): Vergleiche Tabata und HIIT, damit Arbeit, Pause, Runden und Signale zum Training passen.
+- [Tabata vs HIIT: cómo configurar el temporizador correcto](https://easyfit.support/es/guides/tabata-vs-hiit/): Compara Tabata y HIIT para ajustar trabajo, descanso, rondas y señales al entrenamiento.
+- [Tabata vs HIIT : choisir le bon minuteur d’intervalles](https://easyfit.support/fr/guides/tabata-vs-hiit/): Comparez Tabata et HIIT pour adapter travail, repos, tours et signaux à la séance.
+- [Tabata vs HIIT: come impostare il timer giusto](https://easyfit.support/it/guides/tabata-vs-hiit/): Confronta Tabata e HIIT per adattare lavoro, recupero, round e segnali all’allenamento.
+- [Tabata vs HIIT: como configurar o timer certo](https://easyfit.support/pt-br/guides/tabata-vs-hiit/): Compare Tabata e HIIT para ajustar trabalho, descanso, rounds e sinais ao treino.
+- [TabataとHIITの違い：タイマー設定の選び方](https://easyfit.support/ja/guides/tabata-vs-hiit/): TabataとHIITを比較し、ワーク、レスト、ラウンド、合図をトレーニングに合わせます。
+- [Tabata와 HIIT 차이: 알맞은 타이머 설정](https://easyfit.support/ko/guides/tabata-vs-hiit/): Tabata와 HIIT를 비교해 운동, 휴식, 라운드, 신호를 세션에 맞춥니다.
+- [Tabata 与 HIIT：如何设置合适的间歇计时器](https://easyfit.support/zh-hans/guides/tabata-vs-hiit/): 比较 Tabata 与 HIIT，让训练、休息、轮数和提示更适合你的训练。
+- [EMOM vs AMRAP: Timer-Einstellungen fuer beide Formate](https://easyfit.support/de/guides/emom-vs-amrap/): Lerne, wie EMOM und AMRAP unterschiedliche Timer, Signale und Runden brauchen.
+- [EMOM vs AMRAP: ajustes de temporizador para cada formato](https://easyfit.support/es/guides/emom-vs-amrap/): Aprende cómo EMOM y AMRAP usan temporizadores, señales y rondas diferentes.
+- [EMOM vs AMRAP : réglages de minuteur pour chaque format](https://easyfit.support/fr/guides/emom-vs-amrap/): Découvrez comment EMOM et AMRAP utilisent des minuteurs, signaux et tours différents.
+- [EMOM vs AMRAP: impostazioni timer per ogni formato](https://easyfit.support/it/guides/emom-vs-amrap/): Scopri come EMOM e AMRAP usano timer, segnali e round diversi.
+- [EMOM vs AMRAP: ajustes de timer para cada formato](https://easyfit.support/pt-br/guides/emom-vs-amrap/): Entenda como EMOM e AMRAP usam timers, sinais e rounds diferentes.
+- [EMOMとAMRAPの違い：形式別タイマー設定](https://easyfit.support/ja/guides/emom-vs-amrap/): EMOMとAMRAPで異なるタイマー、合図、ラウンドの使い方を整理します。
+- [EMOM과 AMRAP 차이: 형식별 타이머 설정](https://easyfit.support/ko/guides/emom-vs-amrap/): EMOM과 AMRAP이 서로 다른 타이머, 신호, 라운드를 쓰는 방식을 정리합니다.
+- [EMOM 与 AMRAP：不同训练格式的计时器设置](https://easyfit.support/zh-hans/guides/emom-vs-amrap/): 了解 EMOM 与 AMRAP 如何使用不同的计时、提示和轮数。
+- [Zirkeltraining Timer einrichten](https://easyfit.support/de/guides/circuit-training-timer-setup/): Baue Timer fuer Stationen, Runden, Pausen, Uebungen und Apple Watch Signale.
+- [Cómo configurar un temporizador de circuito](https://easyfit.support/es/guides/circuit-training-timer-setup/): Crea temporizadores con estaciones, rondas, descansos, ejercicios y señales.
+- [Configurer un minuteur de circuit training](https://easyfit.support/fr/guides/circuit-training-timer-setup/): Créez un minuteur avec stations, tours, repos, exercices et signaux.
+- [Come configurare un timer per circuit training](https://easyfit.support/it/guides/circuit-training-timer-setup/): Crea timer con stazioni, round, recuperi, esercizi e segnali.
+- [Como configurar um timer de treino em circuito](https://easyfit.support/pt-br/guides/circuit-training-timer-setup/): Crie timers com estações, rounds, descansos, exercícios e sinais.
+- [サーキットトレーニングタイマーの設定方法](https://easyfit.support/ja/guides/circuit-training-timer-setup/): ステーション、ラウンド、休憩、エクササイズ、合図を組み立てます。
+- [서킷 트레이닝 타이머 설정 방법](https://easyfit.support/ko/guides/circuit-training-timer-setup/): 스테이션, 라운드, 휴식, 운동 목록, 신호를 구성합니다.
+- [如何设置循环训练计时器](https://easyfit.support/zh-hans/guides/circuit-training-timer-setup/): 设置训练站点、轮数、休息、动作列表和提示。
+- [Boxing Round Timer richtig einstellen](https://easyfit.support/de/guides/boxing-round-timer-settings/): Plane Runden, Pausen, Signale, Vorbereitung und Cooldown fuer Boxtraining.
+- [Ajustes de temporizador para rounds de boxeo](https://easyfit.support/es/guides/boxing-round-timer-settings/): Configura rounds, descansos, señales, preparación y vuelta a la calma.
+- [Réglages de minuteur pour rounds de boxe](https://easyfit.support/fr/guides/boxing-round-timer-settings/): Configurez rounds, repos, signaux, préparation et retour au calme.
+- [Impostazioni timer per round di boxe](https://easyfit.support/it/guides/boxing-round-timer-settings/): Configura round, recuperi, segnali, preparazione e defaticamento.
+- [Ajustes de timer para rounds de boxe](https://easyfit.support/pt-br/guides/boxing-round-timer-settings/): Configure rounds, descanso, sinais, preparação e desaquecimento.
+- [ボクシングラウンドタイマーの設定](https://easyfit.support/ja/guides/boxing-round-timer-settings/): ラウンド、休憩、合図、準備、クールダウンを設定します。
+- [복싱 라운드 타이머 설정](https://easyfit.support/ko/guides/boxing-round-timer-settings/): 라운드, 휴식, 신호, 준비, 쿨다운을 설정합니다.
+- [拳击回合计时器设置](https://easyfit.support/zh-hans/guides/boxing-round-timer-settings/): 设置回合、休息、提示、准备和冷却时间。
+- [Interval Training Guides](https://easyfit.support/guides/): Practical EasyFit training guides.
+- [Trainingsratgeber](https://easyfit.support/de/guides/): Localized EasyFit training guides.
+- [Guías de entrenamiento](https://easyfit.support/es/guides/): Localized EasyFit training guides.
+- [Guides d’entraînement](https://easyfit.support/fr/guides/): Localized EasyFit training guides.
+- [Guide di allenamento](https://easyfit.support/it/guides/): Localized EasyFit training guides.
+- [Guias de treino](https://easyfit.support/pt-br/guides/): Localized EasyFit training guides.
+- [トレーニングガイド](https://easyfit.support/ja/guides/): Localized EasyFit training guides.
+- [운동 가이드](https://easyfit.support/ko/guides/): Localized EasyFit training guides.
+- [训练指南](https://easyfit.support/zh-hans/guides/): Localized EasyFit training guides.
