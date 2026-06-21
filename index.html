@@ -3,9 +3,89 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>EasyFit — Interval Timer Tabata and HIIT</title>
-    <meta name="description" content="Interval Timer Tabata and HIIT by EasyFit. Guided intervals, Apple Watch, Health, music, haptics, and progress tracking.">
-    <meta name="robots" content="noindex, nofollow, noarchive">
+    <title>Interval Timer Tabata and HIIT App for iPhone and Apple Watch | EasyFit</title>
+    <meta name="description" content="EasyFit Interval Timer Tabata and HIIT helps you build timed HIIT, Tabata, circuit, EMOM, AMRAP, boxing, and home workout sessions with Apple Watch, Health, haptics, music controls, and progress tracking.">
+    <meta name="robots" content="index, follow, max-image-preview:large">
+    <link rel="canonical" href="https://easyfit.support/">
+    <meta name="theme-color" content="#ff454f">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="EasyFit">
+    <meta property="og:title" content="Interval Timer Tabata and HIIT App">
+    <meta property="og:description" content="Create focused interval workouts with guided rounds, Apple Watch heart rate, Apple Health, haptics, music controls, widgets, and progress tools.">
+    <meta property="og:url" content="https://easyfit.support/">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Interval Timer Tabata and HIIT App">
+    <meta name="twitter:description" content="A focused HIIT and Tabata interval timer for iPhone and Apple Watch.">
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@graph": [
+            {
+                "@type": "Organization",
+                "@id": "https://easyfit.support/#organization",
+                "name": "EasyFit",
+                "url": "https://easyfit.support/",
+                "email": "support@easyfit.support"
+            },
+            {
+                "@type": "WebSite",
+                "@id": "https://easyfit.support/#website",
+                "url": "https://easyfit.support/",
+                "name": "EasyFit",
+                "publisher": {
+                    "@id": "https://easyfit.support/#organization"
+                }
+            },
+            {
+                "@type": "SoftwareApplication",
+                "@id": "https://easyfit.support/#app",
+                "name": "Interval Timer Tabata and HIIT",
+                "applicationCategory": "HealthApplication",
+                "operatingSystem": "iOS, watchOS",
+                "url": "https://easyfit.support/",
+                "downloadUrl": "https://apps.apple.com/app/id6764888681",
+                "publisher": {
+                    "@id": "https://easyfit.support/#organization"
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "category": "Subscription"
+                },
+                "description": "Interval Timer Tabata and HIIT is an iPhone and Apple Watch app for timed HIIT, Tabata, circuit, EMOM, AMRAP, boxing, and home workout sessions with guided rounds, haptics, music controls, Health integration, widgets, and progress tracking."
+            },
+            {
+                "@type": "FAQPage",
+                "@id": "https://easyfit.support/#faq",
+                "mainEntity": [
+                    {
+                        "@type": "Question",
+                        "name": "What workouts can I time with Interval Timer Tabata and HIIT?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "You can create timed Tabata, HIIT, circuit training, EMOM, AMRAP, boxing, stretching, mobility, and home workout sessions with custom work, rest, rounds, preparation, cooldown, and exercise lists."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "Does the app work with Apple Watch and Apple Health?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "The app supports Apple Watch heart-rate workflows and Apple Health integration when you grant permission, so workouts and health metrics can stay connected to your Apple fitness data."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "Can I use the timer without watching the screen?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Voice prompts, haptic cues, session sounds, widgets, and music controls help you follow interval rounds without constantly looking at your iPhone."
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+    </script>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         :root {
@@ -316,6 +396,48 @@
         }
         .feature h3 { font-size: 1.15rem; margin-bottom: 8px; }
         .feature p { color: var(--muted); font-size: 0.96rem; }
+        .seo-copy {
+            display: grid;
+            grid-template-columns: minmax(0, 1.2fr) minmax(280px, 0.8fr);
+            gap: 28px;
+            align-items: start;
+            color: var(--muted);
+            font-size: 1.03rem;
+            max-width: 1020px;
+        }
+        .seo-copy p { margin-bottom: 14px; }
+        .keyword-list {
+            display: grid;
+            gap: 10px;
+            list-style: none;
+            color: var(--ink);
+            font-weight: 750;
+        }
+        .keyword-list li {
+            border: 1px solid var(--line);
+            border-radius: 14px;
+            background: rgba(255,255,255,0.64);
+            padding: 12px 14px;
+        }
+        .faq {
+            display: grid;
+            gap: 14px;
+            max-width: 900px;
+        }
+        .faq article {
+            border: 1px solid var(--line);
+            border-radius: 18px;
+            background: rgba(255,255,255,0.64);
+            padding: 18px;
+        }
+        .faq h3 {
+            font-size: 1.08rem;
+            margin-bottom: 8px;
+        }
+        .faq p {
+            color: var(--muted);
+            font-size: 0.98rem;
+        }
         .one { background: linear-gradient(135deg, var(--red), var(--orange)); }
         .two { background: linear-gradient(135deg, var(--blue), var(--violet)); }
         .three { background: linear-gradient(135deg, var(--green), #10b9c7); }
@@ -351,6 +473,7 @@
             }
             .floating-card { right: 2px; bottom: 42px; }
             .feature-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+            .seo-copy { grid-template-columns: 1fr; }
         }
         @media (max-width: 620px) {
             .nav { align-items: flex-start; }
@@ -382,7 +505,7 @@
                 <div>
                     <p class="eyebrow">Interval Timer Tabata and HIIT</p>
                     <h1>Build sharper interval workouts.</h1>
-                    <p class="lead">Guided rounds, Apple Watch heart rate, haptic cues, music control, and progress tools for focused home training.</p>
+                    <p class="lead">A focused Tabata timer and HIIT interval timer for iPhone and Apple Watch. Create timed rounds for home workouts, circuits, EMOM, AMRAP, boxing, mobility, and strength sessions.</p>
 
                     <div class="actions">
                         <a class="app-store" href="https://apps.apple.com/app/id6764888681" aria-label="Download on the App Store">
@@ -456,6 +579,40 @@
                         <div class="icon four">04</div>
                         <h3>Progress view</h3>
                         <p>Track workouts, achievements, weight trends, and training consistency in one place.</p>
+                    </article>
+                </div>
+            </section>
+
+            <section class="section">
+                <h2>A simple interval timer for structured training.</h2>
+                <div class="seo-copy">
+                    <div>
+                        <p>Interval Timer Tabata and HIIT is built for people who need a clear workout timer without noisy setup. Plan work and rest blocks, add exercises, follow voice and haptic cues, and keep sessions moving from warm-up to cooldown.</p>
+                        <p>Use it as a Tabata timer, HIIT timer, circuit training timer, boxing round timer, EMOM timer, AMRAP timer, or a flexible home workout timer. Apple Watch, Apple Health, widgets, music controls, and progress views help keep training connected across your devices.</p>
+                    </div>
+                    <ul class="keyword-list" aria-label="Supported workout timer types">
+                        <li>Tabata timer for classic 20/10 and custom intervals</li>
+                        <li>HIIT interval timer with work, rest, rounds, and cooldown</li>
+                        <li>Circuit, EMOM, AMRAP, boxing, and mobility sessions</li>
+                        <li>Apple Watch heart rate, Apple Health, widgets, and haptics</li>
+                    </ul>
+                </div>
+            </section>
+
+            <section class="section">
+                <h2>Frequently asked questions.</h2>
+                <div class="faq">
+                    <article>
+                        <h3>What workouts can I time with the app?</h3>
+                        <p>You can create timed Tabata, HIIT, circuit training, EMOM, AMRAP, boxing, stretching, mobility, and home workout sessions with custom work, rest, rounds, preparation, cooldown, and exercise lists.</p>
+                    </article>
+                    <article>
+                        <h3>Does it work with Apple Watch and Apple Health?</h3>
+                        <p>Yes. The app supports Apple Watch heart-rate workflows and Apple Health integration when you grant permission, so workouts and health metrics can stay connected to your Apple fitness data.</p>
+                    </article>
+                    <article>
+                        <h3>Can I use the timer without watching the screen?</h3>
+                        <p>Voice prompts, haptic cues, session sounds, widgets, and music controls help you follow interval rounds without constantly looking at your iPhone.</p>
                     </article>
                 </div>
             </section>
